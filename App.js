@@ -9,25 +9,25 @@ const produtos = [
     marca: 'Nike',
     descricao: 'Tênis confortável para corrida',
     preco: 'R$120',
-    imagem: require('./assets/favicon.png'),
+    imagem: require('./assets/sneackered.jpg'),
   },
   {
     marca: 'Adidas',
     descricao: 'Tênis estiloso',
     preco: 'R$100',
-    imagem: require('./assets/favicon.png'),
+    imagem: require('./assets/Tenisadidas.jpg'),
   },
   {
     marca: 'Puma',
     descricao: 'Roupas esportivas duráveis',
     preco: 'R$80',
-    imagem: require('./assets/favicon.png'),
+    imagem: require('./assets/TenisPuma.jpg'),
   },
   {
     marca: 'Reebok',
     descricao: 'Equipamento fitness clássico',
     preco: 'R$90',
-    imagem: require('./assets/favicon.png'),
+    imagem: require('./assets/TenisRebook.jpg'),
   },
 ];
 
